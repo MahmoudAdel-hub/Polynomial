@@ -2,6 +2,6 @@
 ### When Data is in Different Ranges ,we should do <mark>Features Scaling</mark> if we will use Gradient Descent 
 ### in Normal Equation Using Real Values with out doing Featues Scaling , Normal Equation 
 $$ 
-{({X^TX})^{(-1)}}{X^T}y 
+({X^TX})^{-1}{X^T}y 
 $$
 ### The SameThing with Polynomial Library
